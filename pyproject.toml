@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Biblioteca para manipulação de texto"
 readme = "README.md"
 authors = [
-    {name = "Ronnie Campos", email = "roniepris@gmail.com"}
+    {name = "Ronnie R. Campos", email = "roniepris@gmail.com"}
 ]
 license = {text = "MIT"}
 requires-python = ">=3.10"
